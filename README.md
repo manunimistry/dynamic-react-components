@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# dynamic-react-components
+This repository contains React-based interactive components styled with CSS, showcasing simple yet effective implementations of user interactivity. These components are beginner-friendly and demonstrate how to manage state, handle events, and apply CSS styles dynamically in React.
+>>>>>>> f4d186d5457704fece7f42eb0fef700964007851
