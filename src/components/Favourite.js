@@ -1,4 +1,4 @@
-{/*pending*/}
+/*pending*/
 import React from 'react'
 
 const Favourite = () => {
